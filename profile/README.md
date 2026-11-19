@@ -60,7 +60,7 @@
 |------|------|
 | 📧 **电子邮箱** | [contact@tpdsite.com](mailto:contact@tpdsite.com) |
 | 🌐 **官方网站** | [https://www.tpdsite.com/](https://www.tpdsite.com/) |
-| 🌐 **游戏工作室网站** | [[https://www.tpdsite.com/](http://topovire.com/)] |
+| 🌐 **游戏工作室网站** | [https://www.tpdsite.com/](http://topovire.com/) |
 
 欢迎各界朋友、合作伙伴前来沟通交流，共同探索数字时代的无限可能！
 
