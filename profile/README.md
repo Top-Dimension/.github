@@ -66,7 +66,9 @@
 
 ---
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub_Edition-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/LitoMore?sp=Top-Dimension)
+##  我们曾赞助过的开发者
+
+-LitoMore - [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub_Edition-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/LitoMore?sp=Top-Dimension)
 
 <p align="center">
   © 2026 潍坊拓普维度文化科技有限公司 All Rights Reserved.
