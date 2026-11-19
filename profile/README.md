@@ -29,7 +29,8 @@
 
 拓普维度致力于自研 SaaS 产品的开发与长期运营，采用现代化技术栈（微服务架构、容器化部署、分布式存储等），打造高可用、高并发、安全可靠的云服务平台。旗下项目包括：
 
-- ** lytora** — [lytora.live](https://lytora.live)
+- lytora — [lytora.live](https://lytora.live)
+- TypeSub - [![GitHub Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Top-Dimension/TypeSub)
 
 ###  外包开发服务
 
@@ -57,8 +58,9 @@
 
 | 方式 | 信息 |
 |------|------|
-| 📧 **电子邮箱** | [sanyou123666@tpdsite.com](mailto:sanyou123666@tpdsite.com) |
+| 📧 **电子邮箱** | [contact@tpdsite.com](mailto:contact@tpdsite.com) |
 | 🌐 **官方网站** | [https://www.tpdsite.com/](https://www.tpdsite.com/) |
+| 🌐 **游戏工作室网站** | [[https://www.tpdsite.com/](http://topovire.com/)] |
 
 欢迎各界朋友、合作伙伴前来沟通交流，共同探索数字时代的无限可能！
 
